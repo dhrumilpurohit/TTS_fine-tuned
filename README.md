@@ -20,7 +20,7 @@ This model is trained to support the following Indian languages:
 
 - 🎯 Fine-tuned **VITS**, a state-of-the-art end-to-end TTS model
 - 🗃️ Used **Kaggle's "Audio Dataset with 10 Indian Languages"** for training
-- 📄 Created a **custom `metadata.csv`** to format training data
+- 📄 Created a **custom `metadata.csv`** to format training data: format (audio_path | transcription text) using transcribe.py
 - 🧪 Wrote a full training pipeline from scratch using PyTorch
 
 ## 🛠️ Tech Stack
